@@ -1,2 +1,2 @@
 # github-practice
-Learning Git and GitHub funfamentals
+Learning Git and GitHub fundamentals
